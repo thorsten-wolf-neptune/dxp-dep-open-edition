@@ -1,6 +1,6 @@
 {
   "name": "@thorsten-wolf-neptune/dxp-dep-open-edition",
-  "version": "6.0.0",
+  "version": "21.0.0",
   "description": "Open Edition",
   "main": "index.js",
   "scripts": {
